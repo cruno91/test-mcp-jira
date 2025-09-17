@@ -49,3 +49,17 @@ Example with conda:
   }
 }
 ```
+
+## Usage
+
+### jira_whoami
+
+Test the connection to the Jira server.
+
+**Prompt:** Use the tool jira_whoami.
+
+### jira_search
+
+Search for work items. It will return the first 50 results.
+
+**Prompt:** Use the tool jira_search to find open work items.
